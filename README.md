@@ -7,7 +7,6 @@ Technologies Used :
 1. Python
 2. Django
 3. Bootstrap
-4. JavaScript
 
 Running the project:
 
